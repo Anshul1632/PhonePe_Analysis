@@ -1,0 +1,16 @@
+📊 PhonePe Dashboard
+
+The PhonePe Dashboard is an interactive Power BI project that analyzes digital payment trends across India using the PhonePe Pulse dataset. It provides insights into transaction amounts, transaction volumes, registered users, app opens, and average transaction values through an intuitive and user-friendly interface.
+
+✨ Key Features
+Interactive dashboard built in Power BI
+KPI cards displaying key business metrics
+Line, bar, column, and donut charts for trend analysis
+Year and quarter slicers for dynamic data exploration
+State-wise analysis of transactions and registered users
+Data cleaning and transformation using Power Query
+DAX measures for calculating key performance indicators
+Structured data model for efficient reporting
+Interactive visuals with cross-filtering capabilities
+
+The project demonstrates practical skills in Power BI, Power Query, DAX, data modeling, and business intelligence by transforming raw data into meaningful insights through an interactive and visually appealing dashboard.
